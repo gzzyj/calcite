@@ -16,6 +16,7 @@
 *~
 .DS_Store
 .gradle
+.vscode
 /target
 /*/target
 /example/*/target
